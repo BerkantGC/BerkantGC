@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BerkantGC
 - 👀 I’m interested in Mobile App Development
-- 📫 How to reach me Linkedin:  Berkant Gürcan
+- 📫 How to reach me -> Linkedin:  Berkant Gürcan
 
 <!---
 BerkantGC/BerkantGC is a ✨ special ✨ repository because its `README.md` (this file) appears on your Git      Cancel changes
