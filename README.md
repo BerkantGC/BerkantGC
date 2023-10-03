@@ -38,11 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="500"/>
-</div>
-
 <!---
 BerkantGC/BerkantGC is a ✨ special ✨ repository because its `README.md` (this file) appears on your Git      Cancel changes
 Hub profile.
