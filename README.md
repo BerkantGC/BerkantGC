@@ -4,7 +4,7 @@
 
 ## About me:
 
-- :gem: I am currently leading Mobile App Student Club at Yasar University
+- :gem: I am currently leading IEEE Yaşar at Yasar University
 - :seedling: I am currently learning <b>Assembly</b>
 - :technologist: All of my projects are available at https://github.com/BerkantGC?tab=repositories
 - :mailbox: How to reach me: berkantgurcan02@gmail.com
