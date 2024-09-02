@@ -40,7 +40,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/github/explore/raw/main/topics/git/git.png" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40"/>&nbsp;
 </div>
 <!---
 BerkantGC/BerkantGC is a ✨ special ✨ repository because its `README.md` (this file) appears on your Git      Cancel changes
