@@ -4,7 +4,6 @@
 
 ## About me:
 
-- :gem: I am currently playing role as Software Developer at Arken Yazılım
 - :seedling: Computer Engineer
 - :technologist: All of my projects are available at https://github.com/BerkantGC?tab=repositories
 - :mailbox: How to reach me: berkantgurcan02@gmail.com
